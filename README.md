@@ -1,1 +1,1 @@
-# Signal-Image-Processing
+# SignalandImageProcessing
